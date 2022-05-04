@@ -10,7 +10,7 @@
   "dependencies": {
     "primevue": "^3.12.6",
     "vee-validate": "^4.5.11",
-    "vue": "^3.2.25",
+    "vue": "^3.2.33",
     "vue-router": "^4.0.14"
   },
   "devDependencies": {
